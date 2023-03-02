@@ -4,7 +4,7 @@ My name is João Lucas Wetler, but you can call me João. I'm graduated in Elect
 
 ### 📚 Technologies I'm currently studying :
 
-### Front-end:
+### 👨‍💻 Front-end:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -13,14 +13,14 @@ My name is João Lucas Wetler, but you can call me João. I'm graduated in Elect
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Back-End:
+### ⚙️ Back-End:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
-### 🧰 Ferramentas: 
+### 🔧 Tools: 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
@@ -31,9 +31,9 @@ My name is João Lucas Wetler, but you can call me João. I'm graduated in Elect
 
 ### 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-lucas-wetler/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/joaolucas_/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-lucas-wetler/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolucas_/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucasmw@gmail.com)
 
 ### 🚀 Statistics:
 
@@ -42,17 +42,3 @@ My name is João Lucas Wetler, but you can call me João. I'm graduated in Elect
 
 
 
-<!--
-**jlwetler/jlwetler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
